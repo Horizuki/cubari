@@ -4,5 +4,19 @@
   "artist": "Kayahara, Umashi",
   "author": "Akaishi Kakkaku",
   "cover": "https://mangadex.org/covers/834dd43a-2a85-4424-8a35-ec6ce849bfe2/d9af58ef-8b5c-41c6-8098-6eb71904a7fb.png",
-  "chapters": {}
+  "chapters": {
+    "0.1": {
+      "title": "0.1",
+      "volume": "",
+      "last_updated": "1667875666",
+      "groups": {
+        "": [
+          "https://cdn.discordapp.com/attachments/596885246876581898/1039370929865773147/unknown.png",
+          "https://cdn.discordapp.com/attachments/596885246876581898/1039370975961174026/unknown.png",
+          "https://cdn.discordapp.com/attachments/596885246876581898/1039371041413279846/unknown.png",
+          "https://cdn.discordapp.com/attachments/596885246876581898/1039371074359541770/unknown.png"
+        ]
+      }
+    }
+  }
 }
