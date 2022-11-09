@@ -28,6 +28,62 @@
       "groups": {
         "IkaScans": "/proxy/api/mangadex/chapter/10896c55-3c34-4eae-9aa5-85c8ecaddcbc"
       }
+    },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667963133",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/0039590d-a824-4303-9556-59a0485e8363"
+      }
+    },
+    "5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667963142",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/74be3492-9ccd-497c-a9ad-446e36c9c6a6"
+      }
+    },
+    "6": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667963156",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/82ba8975-5728-4fc4-ba80-45013e2d8a35"
+      }
+    },
+    "7": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667963171",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/0717f11d-11a8-4209-9fb2-31aaa1fd7a2b"
+      }
+    },
+    "8": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667963199",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/aae3838e-0aae-4bc6-b3d9-033a0dcd467c"
+      }
+    },
+    "9": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667963216",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/cc69d8c0-276e-4d47-be69-4ef4d5b83c89"
+      }
+    },
+    "10": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667963228",
+      "groups": {
+        "IkaScans": "/proxy/api/mangadex/chapter/c79ff6e6-001c-422e-83ae-0afaeb56f24b"
+      }
     }
   }
 }
